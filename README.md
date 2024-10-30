@@ -3,7 +3,7 @@
 🖥️ **Minhas Tecnologias Favoritas:**
 - Aprendendo HTML, CSS e JavaScript
 - Explorando MySQL para gerenciamento de banco de dados
-- Interessado em frameworks como React e Django
+- Interessado em frameworks como Bootstrap e React
 
 💡 **Objetivos:**
 - Aprofundar meus conhecimentos em Backend e Banco de Dados
