@@ -3,7 +3,7 @@
 🖥️ **Minhas Tecnologias Favoritas:**
 - Aprendendo HTML, CSS e JavaScript
 - Explorando MySQL para gerenciamento de banco de dados
-- Interessado em Python e análises de dados 
+- Interessado em Python e análise de dados 
 
 💡 **Objetivos:**
 - Aprofundar meus conhecimentos em Backend e Banco de Dados
