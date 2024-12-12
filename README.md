@@ -1,9 +1,9 @@
 👋 Olá! Sou Luís, um entusiasta da tecnologia e aprendiz em desenvolvimento de software. Atualmente, estou explorando o mundo da programação e buscando aprimorar minhas habilidades.
 
 🖥️ **Minhas Tecnologias Favoritas:**
-- Aprendendo HTML, CSS e JavaScript
+- Aprendendo HTML e CSS
+- Interessado em Java e Spring Boot
 - Explorando MySQL para gerenciamento de banco de dados
-- Interessado em Python e análise de dados 
 
 💡 **Objetivos:**
 - Aprofundar meus conhecimentos em Backend e Banco de Dados
