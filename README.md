@@ -1,15 +1,29 @@
-👋 Olá! Sou Luís, um entusiasta da tecnologia e aprendiz em desenvolvimento de software. Atualmente, estou explorando o mundo da programação e buscando aprimorar minhas habilidades.
+## 👋 Olá! Eu sou o Luís
 
-🖥️ **Minhas Tecnologias Favoritas:**
-- Aprendendo HTML e CSS
-- Interessado em Java e Spring Boot
-- Explorando MySQL para gerenciamento de banco de dados
+Sou estudante de **Ciência da Computação** na **Universidade de Brasília (UnB)**, atualmente no **2º semestre**. Estou dando meus primeiros passos no mundo da programação e explorando os fundamentos da computação com muita dedicação e curiosidade.
 
-💡 **Objetivos:**
-- Aprofundar meus conhecimentos em Backend e Banco de Dados
-- Criar projetos pessoais que resolvam problemas do dia a dia
-- Contribuir para projetos de código aberto e aprender com a comunidade
-- Continuar estudando e me desenvolvendo na área de tecnologia
+---
 
-📫 **Vamos nos conectar!**
-Sinta-se à vontade para entrar em contato ou seguir meu trabalho. Estou sempre aberto a dicas, colaborações e novas oportunidades!
+### 🧠 Atualmente estudando
+
+- 🔧 Linguagem C (estrutura de dados, lógica, manipulação de arquivos)
+- 🧮 Assembly (RISC-V) para programação de baixo nível
+- 💡 Algoritmos e estruturas básicas
+
+---
+
+### 🎯 Meus objetivos
+
+- Me aprofundar em **lógica de programação** e **arquitetura de computadores**
+- Criar projetos pessoais que me ajudem a aplicar os conhecimentos da faculdade
+- Compartilhar aprendizado e crescer junto com a comunidade
+- Evoluir como desenvolvedor e explorar áreas como **sistemas embarcados**, **back-end** e **baixo nível**
+
+---
+
+### 🤝 Vamos nos conectar!
+
+Gosto de trocar ideias, aprender com outras pessoas e participar de projetos colaborativos.  
+Sinta-se à vontade para acompanhar meu trabalho aqui no GitHub ou me chamar para conversar!
+
+---
