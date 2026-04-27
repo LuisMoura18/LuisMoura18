@@ -1,14 +1,15 @@
 ## 👋 Olá! Eu sou o Luís
 
-Sou estudante de **Ciência da Computação** na **Universidade de Brasília (UnB)**, atualmente no **2º semestre**. Estou dando meus primeiros passos no mundo da programação e explorando os fundamentos da computação com muita dedicação e curiosidade.
+Sou estudante de **Ciência da Computação** na **Universidade de Brasília (UnB)**, atualmente no **3º semestre**. Estou dando meus primeiros passos no mundo da programação e explorando os fundamentos da computação com muita dedicação e curiosidade.
 
 ---
 
 ### 🧠 Atualmente estudando
 
-- 🔧 Linguagem C (estrutura de dados, lógica, manipulação de arquivos)
-- 🧮 Assembly (RISC-V) para programação de baixo nível
-- 💡 Algoritmos e estruturas básicas
+- Linguagem C (estrutura de dados, lógica, manipulação de arquivos)
+- Algoritmos e estruturas básicas
+- HTML/CSS
+- JavaScript
 
 ---
 
