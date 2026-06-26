@@ -1,29 +1,32 @@
 # Olá, eu sou o Luís 👋
 
-Atualmente cursando **Ciência da Computação na Universidade de Brasília (UnB)** e focado no desenvolvimento de software de ponta a ponta. Busco construir aplicações robustas, escaláveis e eficientes.
+Atualmente cursando **Ciência da Computação na Universidade de Brasília (UnB)** e focado no desenvolvimento back-end. Busco construir APIs seguras, escaláveis e aplicar boas práticas de arquitetura de software para resolver problemas complexos.
 
 ---
 
-## 🛠️ Stack Atual de Estudos (Full Stack)
+## 🛠️ Stack Atual de Estudos (Backend)
 
-### Front-end
-*   HTML5 / CSS
-*   JavaScript / TypeScript
-*   Next.js / React
+### Linguagens e Paradigmas
+*   **Java:** Foco em Programação Orientada a Objetos (POO), coleções e concorrência.
+*   **Lógica & Algoritmos:** Sólida base teórica e prática desenvolvida na graduação.
 
-### Back-end & Banco de Dados
-*   Node.js
-*   SQL
+### Banco de Dados
+*   **SQL:** Modelagem de dados, consultas, relacionamentos e manipulação (PostgreSQL / MySQL).
+
+### Ferramentas de Desenvolvimento
+*   Git & GitHub (Versionamento)
+*   IDE intellij
+*   Ambientes Linux / Terminal
 
 ---
 
-## 🚀 Objetivos Futuros e Áreas de Interesse
+## 🚀 Objetivos Futuros e Próximos Passos
 
-Tecnologias e disciplinas que tenho vontade de estudar e aprender mais ao longo da minha formação:
+Tecnologias e conceitos que pretendo estudar e integrar aos meus projetos ao longo dos próximos meses:
 
-*   **Java:** Tenho interesse em aprender a linguagem e seu ecossistema para o desenvolvimento back-end corporativo.
-*   **Cloud Computing:** Pretendo estudar os conceitos gerais de nuvem e aprender ferramentas como a AWS e ORACLE.
-*   **Engenharia de Software:** Objetivo de estudar arquitetura de sistemas, padrões de projeto e boas práticas de desenvolvimento em larga escala.
+*   **Spring Boot:** Estudo do principal ecossistema Java para criação de APIs REST robustas (Spring Data, Spring Security).
+*   **Engenharia de Software:** Aprofundamento em Padrões de Projeto (Design Patterns), Arquitetura Limpa (Clean Architecture) e testes automatizados.
+*   **Cloud Computing:** Compreensão de infraestrutura em nuvem (AWS) voltada para o deploy e sustentação de aplicações back-end.
 
 ---
 
