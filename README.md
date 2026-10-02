@@ -1,32 +1,28 @@
 # Olá, eu sou o Luís 👋
 
-Atualmente cursando **Ciência da Computação na Universidade de Brasília (UnB)** e focado no desenvolvimento back-end. Busco construir APIs seguras, escaláveis e aplicar boas práticas de arquitetura de software para resolver problemas complexos.
+🎓 Estudante de **Ciência da Computação na Universidade de Brasília (UnB)**
+💻 **Desenvolvimento Back-end | JavaScript | Node.js**
+☁️ Estudando **AWS e Cloud Computing**
+🚀 Membro da **CJR — Empresa Júnior de Computação**
 
----
+Sou estudante de Ciência da Computação com interesse em **desenvolvimento de software e tecnologia**, atualmente direcionando meus estudos para o desenvolvimento **back-end**.
 
-## 🛠️ Stack Atual de Estudos (Backend)
+Tenho estudado **JavaScript, Node.js, TypeScript, bancos de dados e desenvolvimento de APIs**, buscando evoluir não apenas na implementação, mas também em **arquitetura, organização e boas práticas de software**.
 
-### Linguagens e Paradigmas
-*   **Java:** Foco em Programação Orientada a Objetos (POO), coleções e concorrência.
-*   **Lógica & Algoritmos:** Sólida base teórica e prática desenvolvida na graduação.
+Como membro da **CJR — Empresa Júnior de Computação**, participo do desenvolvimento de projetos e tenho a oportunidade de aplicar meus conhecimentos em situações práticas, trabalhando em equipe e utilizando tecnologias presentes no mercado.
 
-### Banco de Dados
-*   **SQL:** Modelagem de dados, consultas, relacionamentos e manipulação (PostgreSQL / MySQL).
+Também estou estudando **AWS e Cloud Computing**, expandindo meus conhecimentos para além do desenvolvimento e buscando compreender como aplicações são estruturadas, implantadas e executadas em ambientes de nuvem.
 
-### Ferramentas de Desenvolvimento
-*   Git & GitHub (Versionamento)
-*   IDE intellij
-*   Ambientes Linux / Terminal
+### Atualmente, meus principais focos são:
 
----
+* 🔹 Desenvolvimento **Back-end com JavaScript e Node.js**
+* 🔹 **TypeScript** e desenvolvimento de APIs
+* 🔹 Bancos de dados e **SQL**
+* 🔹 Desenvolvimento de projetos na **CJR**
+* 🔹 **AWS e Cloud Computing**
+* 🔹 Arquitetura e boas práticas de desenvolvimento
 
-## 🚀 Objetivos Futuros e Próximos Passos
-
-Tecnologias e conceitos que pretendo estudar e integrar aos meus projetos ao longo dos próximos meses:
-
-*   **Spring Boot:** Estudo do principal ecossistema Java para criação de APIs REST robustas (Spring Data, Spring Security).
-*   **Engenharia de Software:** Aprofundamento em Padrões de Projeto (Design Patterns), Arquitetura Limpa (Clean Architecture) e testes automatizados.
-*   **Cloud Computing:** Compreensão de infraestrutura em nuvem (AWS) voltada para o deploy e sustentação de aplicações back-end.
+Estou constantemente buscando transformar o conhecimento adquirido na graduação em **projetos práticos**, evoluindo como desenvolvedor e construindo uma base sólida para minha carreira em tecnologia.
 
 ---
 
