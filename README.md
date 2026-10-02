@@ -35,4 +35,4 @@ Estou constantemente buscando transformar o conhecimento adquirido na graduaçã
 
 ## 📬 Contato
 
-*   **LinkedIn:** [linkedin.com/in/mouraluis](www.linkedin.com/in/mouraluis)
+*   **LinkedIn:** www.linkedin.com/in/mouraluis
